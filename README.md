@@ -4,8 +4,8 @@ Thuesday:
   book
   point
   customer
-Wednesday
+Wednesday:
   rest1
-Thursday
+Thursday:
   jpql-demo-for-day4
   week1-simple-jpa-rest
